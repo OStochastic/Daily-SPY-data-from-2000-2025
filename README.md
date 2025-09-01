@@ -28,4 +28,4 @@ Volume: The trading volume. The total number of shares that were bought and sold
 
 Summary for Users:
 
-"To use this file, ignore the first three rows. The actual data starts on row four with the columns: Date, Close, High, Low, Open, and Volume."
+To use this file, ignore the first three rows. The actual data starts on row four with the columns: Date, Close, High, Low, Open, and Volume.
