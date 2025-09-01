@@ -9,7 +9,10 @@ Row 2: Specifies the ticker symbol (SPY).
 
 Row 3: Is a blank row that acts as a separator.
 
+
 Important: When loading this file into a program (like Excel or with code), you need to skip these first three rows to access the actual data. The data begins on row 4.
+
+
 
 Data Columns:
 Starting from the fourth row, the file is organized into six columns:
@@ -26,10 +29,12 @@ Open: The opening price. The price of SPY at the start of the trading day.
 
 Volume: The trading volume. The total number of shares that were bought and sold during the day.
 
+
+
 Summary for Users:
 
 To use this file, ignore the first three rows. The actual data starts on row four with the columns: Date, Close, High, Low, Open, and Volume.
 
 Download the data below:
 
-Download spy_data.csv
+[Download spy_data.csv](spy_data.csv)
