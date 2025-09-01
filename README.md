@@ -2,8 +2,11 @@
 This CSV file contains daily market data for the SPDR S&amp;P 500 ETF $SPY
 
 Header Rows:
+
 Row 1: Contains the column headers (Price, Close, High, etc.).
+
 Row 2: Specifies the ticker symbol (SPY).
+
 Row 3: Is a blank row that acts as a separator.
 
 Important: When loading this file into a program (like Excel or with code), you need to skip these first three rows to access the actual data. The data begins on row 4.
