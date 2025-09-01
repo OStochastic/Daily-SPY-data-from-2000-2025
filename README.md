@@ -1,5 +1,5 @@
 # Daily-SPY-data-from-2000-2025
-This CSV file contains daily market data for the SPDR S&amp;P 500 ETF $SPY
+This CSV file contains daily market data for the SPDR S&amp;P 500 ETF $SPY from year 2000 to today
 
 Header Rows:
 
